@@ -91,12 +91,8 @@ def main(args):
     cv2.namedWindow('Output', cv2.WINDOW_AUTOSIZE)
     all_canvas = paint(cv2.cvtColor(img, cv2.COLOR_BGR2RGB), max_step=40, divide=4, device=device)
     all_vis_output = []
-    #vis_output = show_animation(all_canvas, "Output")
-    #all_vis_output.append(vis_output)
-    vis_output = np.zeros_like(img)
+    vis_output = show_animation(all_canvas, "Output")
     all_vis_output.append(vis_output)
-    cv2.imshow('Output', vis_output)
-    cv2.waitKey(100)
 
     all_mask = []
     all_pos = []
