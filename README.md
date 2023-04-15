@@ -72,6 +72,7 @@ python -m pip install -r lama/requirements.txt
 
 ## :cupid: Acknowledgement
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [lama](https://github.com/advimman/lama)
 - [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint)
 - [PaintTransformer](https://github.com/Huage001/PaintTransformer)
 - [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
