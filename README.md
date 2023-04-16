@@ -1,7 +1,7 @@
 ![logo](picture/logo.png)
 <!-- # Paint-Anything -->
 
-We plan to create a very interesting demo by combining [Segment Anything](https://github.com/facebookresearch/segment-anything) and a series of stroke-based painting models, which makes more human-like painting process! We will continue to improve it and create more interesting demos. **Interesting ideas, results, and contributions are warmly welcome!**
+We plan to create a very interesting demo by combining [Segment Anything](https://github.com/facebookresearch/segment-anything) and a series of stroke-based painting models, which makes more human-like painting process! We will continue to improve it and create more interesting demos. **🔥Interesting ideas, results, and contributions are warmly welcome!🔥**
 
 ## Demo
 - Like human, Paint-Anything creates arts by firstly drawing the background roughly and then drawing the foreground with fine-grained strokes.
